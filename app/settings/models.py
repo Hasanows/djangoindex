@@ -1,6 +1,12 @@
 from django.db import models
 
 # Create your models here.
+#bush1root
+#bush1root
+#bush1root
+#bush1root
+#bush1root
+#bush1root
 class Settings(models.Model):
     title = models.CharField(max_length=255, verbose_name='Заголовок')
     tema = models.CharField(max_length=50, verbose_name='Тема')
@@ -100,3 +106,13 @@ class Portfolio(models.Model):
     class Meta:
         verbose_name = 'Проект'
         verbose_name_plural = 'Проекты'
+
+
+
+
+#bush1root
+#bush1root
+#bush1root
+#bush1root
+#bush1root
+#bush1root
